@@ -401,6 +401,12 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>ValideTestCommit</fullName>
+        <active>true</active>
+        <errorConditionFormula>false</errorConditionFormula>
+        <errorMessage>sasa</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
